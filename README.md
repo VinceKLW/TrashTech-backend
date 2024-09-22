@@ -28,7 +28,7 @@
 
 To use the Trash It, follow these steps:
 
-1. Visit https://trash-it.azurewebsites.net/
+1. Visit https://trashtech.netify.app
 
 ### Usage
 
