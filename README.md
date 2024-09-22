@@ -28,7 +28,7 @@
 
 To use the Trash It, follow these steps:
 
-1. Visit https://trashtech.netify.app
+1. Visit https://trashtech.netlify.app
 
 ### Usage
 
